@@ -1,0 +1,22 @@
+{
+  "name": "greatbay_activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerblakeman/greatbay_activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerblakeman/greatbay_activity/issues"
+  },
+  "homepage": "https://github.com/tylerblakeman/greatbay_activity#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
