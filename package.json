@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tylerblakeman/greatbay_activity#readme",
   "dependencies": {
+    "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
   }
 }
